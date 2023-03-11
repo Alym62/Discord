@@ -1,0 +1,4 @@
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Open Sans', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Open+Sans:wght@300;800&display=swap');
